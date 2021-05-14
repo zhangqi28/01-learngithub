@@ -4,4 +4,8 @@ test3: sign in
 test4: I want to make money in the market
 test5: but it's hard 
 test6: today is Friday and tomorrow is Saturday;
-test7: test branch function;
+<<<<<<< HEAD
+test7: test branch function and solve conflic;
+=======
+test7: test branch function and solve conflic;
+>>>>>>> des

@@ -3,4 +3,4 @@ test2: sign up on github
 test3: sign in
 test4: I want to make money in the market
 test5: but it's hard 
-test6£ºtomrrow is saturday
+test6: today is Friday and tomorrow is Saturday;
